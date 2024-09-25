@@ -36,7 +36,12 @@ CountriesApp is an Android application that fetches and displays a list of count
 ## Limitations
 
 * This application does not use Jetpack Compose or Dagger, adhering to the specified requirements.
-  
+
+## Screenshots
+
+![Countries](https://github.com/user-attachments/assets/4f31d50d-9f84-440c-b177-e37600c290ef)
+
+
 ## Contribution
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
