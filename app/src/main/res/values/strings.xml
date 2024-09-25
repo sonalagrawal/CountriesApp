@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountriesApp</string>
+    <string name="text_country_region"> United States of America, NA </string>
+    <string name="text_country_code">US</string>
+    <string name="text_country_capital">Washington, D.C.</string>
+    <string name="country_name_region_format">%1$s, %2$s</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding">15dp</dimen>
+    <dimen name="text_country_size">16sp</dimen>
+    <dimen name="text_country_margin">8dp</dimen>
+</resources>
